@@ -10,4 +10,7 @@ In the first registration the sounds are too low and is almost quiet
 
 ```
 0               5               10              15
-/_______________/_______________/_______________/
+/_______________/________/_______/_______________/
+                         |
+                         |
+             unione delle due registrazioni
