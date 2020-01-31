@@ -8,6 +8,6 @@ In the secon registration I'm getting ready for school but there are more sounds
 In the first registration the sounds are too low and is almost quiet
 
 
-
+```
 0               5               10              15
 /_______________/_______________/_______________/
